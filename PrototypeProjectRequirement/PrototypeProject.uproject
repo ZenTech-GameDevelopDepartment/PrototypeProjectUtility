@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{333C7A2D-409D-F91B-2690-4192BE364939}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PrototypeProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
